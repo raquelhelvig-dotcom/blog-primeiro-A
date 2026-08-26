@@ -1,19 +1,22 @@
 body{
 
-background-color: rgb(223, 220, 220);
+background-color: rgb(190, 150, 150);
 
-
-
-
-
+}
 
 header{
 
-background-color: rgb(151, 222, 218);
+background-color: #481212;
 text-align: center;
 margin: 0px auto;
 max-width: 800px;
 
+}
+main
+{  
+background-color:  #481212;
+text-align: center;
+max-width: 800px;
+margin: 0px auto;
 
 }
- } 
