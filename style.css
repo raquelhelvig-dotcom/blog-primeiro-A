@@ -1,7 +1,19 @@
 body{
 
-background-color: rgb(196, 45, 11);
+background-color: rgb(223, 220, 220);
 
 
 
+
+
+
+header{
+
+background-color: rgb(151, 222, 218);
+text-align: center;
+margin: 0px auto;
+max-width: 800px;
+
+
+}
  } 
